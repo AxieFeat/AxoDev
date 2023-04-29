@@ -1,0 +1,20 @@
+name: AxoDev
+version: '${version}'
+main: me.axiefeat.axolotlstudio.Main
+author: AxieFeat
+api-version: 1.18
+website: https://vk.com/axostudio
+depend: [ VK-API, Vault ]
+description: Vk-bot and Report system special for LifeCraft 2022
+load: STARTUP
+
+commands:
+  report:
+    permission: axodev.report.use
+  reports:
+    permission: axodev.repors
+  watch:
+    permission: axodev.watch
+    aliases:
+      - spec
+      - spectate

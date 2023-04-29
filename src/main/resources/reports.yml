@@ -1,0 +1,13 @@
+Count: 2
+
+Reports:
+  AxieFeat:
+    count: 3
+    reasons:
+      Klazet: тест 1
+      euforic: тест 2
+      TheBloxy: тест 3
+  Klazet:
+    count: 1
+    reasons:
+      "Anticheat:8313": NoClip
